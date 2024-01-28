@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "913393516401",
+    "project_id": "profile-and-chat",
+    "storage_bucket": "profile-and-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913393516401:android:5f6eb2c1d8e67c094700d0",
+        "android_client_info": {
+          "package_name": "com.vikas.profile_and_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913393516401-5g53t1e6t0g314r9i70u9hu2t7d2sklo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikas.profile_and_chat",
+            "certificate_hash": "e4b185866ece4db6b468fc7ebe9432f8214fc1e1"
+          }
+        },
+        {
+          "client_id": "913393516401-b4kf92p9sdls50r7rk5c2l7e8tids2o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLtyIqlhDp7VNhWg_yiLYroQVUwWdAEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913393516401-b4kf92p9sdls50r7rk5c2l7e8tids2o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
